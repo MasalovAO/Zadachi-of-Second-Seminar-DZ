@@ -1,0 +1,15 @@
+C:\Users\AleXander Masalov\Desktop\Lexion 2\DZ.Zadacha13\obj\Debug\net6.0\DZ.Zadacha13.csproj.AssemblyReference.cache
+C:\Users\AleXander Masalov\Desktop\Lexion 2\DZ.Zadacha13\obj\Debug\net6.0\DZ.Zadacha13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AleXander Masalov\Desktop\Lexion 2\DZ.Zadacha13\obj\Debug\net6.0\DZ.Zadacha13.AssemblyInfoInputs.cache
+C:\Users\AleXander Masalov\Desktop\Lexion 2\DZ.Zadacha13\obj\Debug\net6.0\DZ.Zadacha13.AssemblyInfo.cs
+C:\Users\AleXander Masalov\Desktop\Lexion 2\DZ.Zadacha13\obj\Debug\net6.0\DZ.Zadacha13.csproj.CoreCompileInputs.cache
+C:\Users\AleXander Masalov\Desktop\Lexion 2\DZ.Zadacha13\bin\Debug\net6.0\DZ.Zadacha13.exe
+C:\Users\AleXander Masalov\Desktop\Lexion 2\DZ.Zadacha13\bin\Debug\net6.0\DZ.Zadacha13.deps.json
+C:\Users\AleXander Masalov\Desktop\Lexion 2\DZ.Zadacha13\bin\Debug\net6.0\DZ.Zadacha13.runtimeconfig.json
+C:\Users\AleXander Masalov\Desktop\Lexion 2\DZ.Zadacha13\bin\Debug\net6.0\DZ.Zadacha13.dll
+C:\Users\AleXander Masalov\Desktop\Lexion 2\DZ.Zadacha13\bin\Debug\net6.0\DZ.Zadacha13.pdb
+C:\Users\AleXander Masalov\Desktop\Lexion 2\DZ.Zadacha13\obj\Debug\net6.0\DZ.Zadacha13.dll
+C:\Users\AleXander Masalov\Desktop\Lexion 2\DZ.Zadacha13\obj\Debug\net6.0\refint\DZ.Zadacha13.dll
+C:\Users\AleXander Masalov\Desktop\Lexion 2\DZ.Zadacha13\obj\Debug\net6.0\DZ.Zadacha13.pdb
+C:\Users\AleXander Masalov\Desktop\Lexion 2\DZ.Zadacha13\obj\Debug\net6.0\DZ.Zadacha13.genruntimeconfig.cache
+C:\Users\AleXander Masalov\Desktop\Lexion 2\DZ.Zadacha13\obj\Debug\net6.0\ref\DZ.Zadacha13.dll
